@@ -1,4 +1,4 @@
-# PHP MySQLMessageboard
+# PHP Social Messageboard
 
 A full‑stack messageboard application with complete CRUD functionality for users, profiles, posts, and comments. Built with PHP, MySQL, Bootstrap 5, and JavaScript, it demonstrates a responsive, production‑style social platform with authentication, profile management, and an admin dashboard. The project includes 15 demo users and over 20 sample posts to showcase how the application behaves with real data.
 
